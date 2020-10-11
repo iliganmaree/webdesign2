@@ -1,9 +1,9 @@
 body {
     font-family: monospace;
-    color: #ffff;
+    color: #111
     margin: 0px;
     padding: 0px;
-    background-color: #333;
+    background-color: #ffffff;
     
 }
 
@@ -29,7 +29,8 @@ ul {
 }
 
 li {
-  float: left;
+  float: right;
+  font-size: 20px;
 }
 
 li a {
@@ -53,7 +54,7 @@ li a:hover {
   display: grid;
   grid-template-columns: auto auto auto auto;
   grid-template-rows: auto auto auto;
-  background-color: #333;
+  background-color: #fff;
  
     
 }
